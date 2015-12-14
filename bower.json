@@ -1,0 +1,8 @@
+{
+  "name": "nnSnackbar",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "https://github.com/angular/bower-angular.git"
+  }
+}
